@@ -1,0 +1,18 @@
+[
+  "backend/tests/test_analyzers.py::test_language_detector",
+  "backend/tests/test_analyzers.py::test_python_analyzer_syntax_and_complexity",
+  "backend/tests/test_analyzers.py::test_security_analyzer_sql_injection",
+  "backend/tests/test_auth.py::test_get_me",
+  "backend/tests/test_auth.py::test_login_invalid_password",
+  "backend/tests/test_auth.py::test_login_success",
+  "backend/tests/test_auth.py::test_register_duplicate_email",
+  "backend/tests/test_auth.py::test_register_user",
+  "backend/tests/test_reviews.py::test_full_code_submission_and_review_flow",
+  "backend/tests/test_sandbox.py::test_sandbox_execution_timeout",
+  "backend/tests/test_sandbox.py::test_sandbox_failing_assertion",
+  "backend/tests/test_sandbox.py::test_sandbox_passing_python_test",
+  "backend/tests/test_validator.py::test_validator_line_out_of_bounds_rejection",
+  "backend/tests/test_validator.py::test_validator_snippet_mismatch_rejection",
+  "backend/tests/test_validator.py::test_validator_sql_injection_plausibility_rejection",
+  "backend/tests/test_validator.py::test_validator_static_correlation_validated"
+]
